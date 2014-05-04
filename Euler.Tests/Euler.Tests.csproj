@@ -52,6 +52,7 @@
     <Compile Include="One\Program.cs" />
     <Compile Include="One\ProblemOneFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Two\ProblemTwoFixture.cs" />
     <Compile Include="Two\Program.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -13,6 +13,8 @@ namespace Euler.Tests.One
 	{
 		public static void Main(string[] args)
 		{
+			Console.Title = "Problem One: Sum all multiples of 3 and 5 below 1000.";
+
 			/*
 			 * Problem One:
 			 * 
